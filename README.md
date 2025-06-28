@@ -46,3 +46,5 @@ Notes:
 Requires Ollama installed on your machine (https://ollama.com).
 
 You can swap out the CSV or change the prompt template in main.py to customize it.
+
+References: https://www.youtube.com/watch?v=E4l91XKQSgw&ab_channel=TechWithTim
