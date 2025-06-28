@@ -1,5 +1,10 @@
 Local Pizza Review QA Bot
 
+## YouTube Demo
+
+[![Watch on YouTube](https://img.shields.io/badge/Watch-YouTube-red)(https://https://youtu.be/PTV9xqAAsmI)
+
+
 A simple local retrieval-augmented generation (RAG) app that answers questions about pizza restaurant reviews.
 It reads a CSV file of customer reviews, stores them in a Chroma vector database, retrieves the most relevant reviews based on a user question, and passes them to a local LLM using Ollama to generate an answer. Everything runs fully offline.
 
