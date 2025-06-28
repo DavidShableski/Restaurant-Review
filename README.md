@@ -2,7 +2,7 @@ Local Pizza Review QA Bot
 
 ## YouTube Demo
 
-[![Watch on YouTube](https://img.shields.io/badge/Watch-YouTube-red)](https://https://youtu.be/PTV9xqAAsmI)
+[![Watch on YouTube](https://img.shields.io/badge/Watch-YouTube-red)](https://youtu.be/PTV9xqAAsmI)
 
 
 A simple local retrieval-augmented generation (RAG) app that answers questions about pizza restaurant reviews.
